@@ -1,0 +1,21 @@
+body{
+    background-color: bisque ;
+}
+
+table{
+    width: 800px;
+}
+caption{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: blue;
+}
+
+tbody{
+    font-size: 20px;
+    background-color: red;
+}
+
+tfoot{
+    background-color: yellow;
+    font-weight: bold;
+}
